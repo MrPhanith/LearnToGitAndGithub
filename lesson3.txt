@@ -1,0 +1,4 @@
+Work with Github
+_first: $git remote add origin <url> - to add respository
+_second: $git push -u origin master - push to github server
+**If we have more file to push next time, we just use ($git push)
