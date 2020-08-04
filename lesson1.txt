@@ -7,3 +7,4 @@ $git commit -m "</>" - to commit file
 $git log - to check our work when we commit
 $git diff <fileName> - to check difference in file
 $git checkout - rote back to the last version
+$ls -a - to check all the file in director
