@@ -2,7 +2,7 @@ Branch & Merge
 $git branch <branchName>
 $git branch - check current branch
 $git checkout <branchName> - to select branch
-**Merge branch
+**Merge
 
 _first: We need to think about what branch you want to merge.
 ##Example: we choose **apple** branch
