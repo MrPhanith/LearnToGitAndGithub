@@ -1,0 +1,18 @@
+Branch & Merge
+$git branch <branchName>
+$git branch - check current branch
+$git checkout <branchName> - to select branch
+**Merge branch
+
+_first: We need to think about what branch you want to merge.
+##Example: we choose **apple** branch
+_second: We go back to master branch and merge apple branch to our current branch.
+$git merge apple
+&&&&**----> 
+$git commit -m "c1"
+$git branch "apple"
+$git checkout apple
+$git commit -m "c2"
+$git checkout master
+$git commit -m "c3"
+$git merge apple
