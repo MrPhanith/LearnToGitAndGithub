@@ -2,5 +2,5 @@ To checkout back to last version
 _first: check state area ($git status)
 _second: check difference ($git diff <filename>)
 _thirth: turn back to last version ($git checkout <filename>)
-**Note;
+**Note
 No need to add and commit, because it is empty to commit.
