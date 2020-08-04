@@ -1,0 +1,9 @@
+Get Start
+$git init - to install git in directory
+$git status - to check state area
+$git add . - to add all file into git
+$git add <fileName> - to add specify file into git
+$git commit -m "</>" - to commit file
+$git log - to check our work when we commit
+$git diff <fileName> - to check difference in file
+$git checkout - rote back to the last version
